@@ -1,6 +1,6 @@
 # classifying-Alzheimers-disease
 **CLASSIFYING ALZHEIMER'S DISEASE FROM BRAIM MRI SCANS USING DEEP NEURAL NETWORKS**
-»this is a neural network that uses VG19, a CNN architecture to classify Alzheimer's disease patients from from healthy patients using their brain images
+»this is a neural network that uses VG19, a CNN architecture to classify Alzheimer's disease patients from healthy patients using their brain images
 
 **STEPS TO FOLLOW**
 1. Software Requirements
